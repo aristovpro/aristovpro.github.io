@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "browser-sync": "^2.26.3",
+    "del": "^4.1.0",
+    "eslint": "^5.16.0",
+    "fs-path": "^0.0.24",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-image-resize": "^0.13.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "highlight.js": "^9.15.6",
+    "marked": "^0.6.2",
+    "statil": "^0.9.0"
+  }
+}

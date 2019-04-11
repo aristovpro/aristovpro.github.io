@@ -1,0 +1,12 @@
+/*
+!/images
+!/static
+!/styles
+!/templates
+!/.eslintrc
+!/.gitignore
+!/gulpfile.js
+!/md.js
+!/package.json
+!/readme.md
+!/yarn.lock
