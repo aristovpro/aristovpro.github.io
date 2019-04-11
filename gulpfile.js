@@ -82,6 +82,7 @@ gulp.task('templates:build', async () => {
       md,
       template,
       COMMIT,
+      PATH: page.path,
       TITLE: page.title,
     })
 
