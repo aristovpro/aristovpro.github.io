@@ -2,11 +2,11 @@
 
 My name is Nikita Aristov.
 
-I'm web developer with solid skills in UI/UX.
+I’m a web developer with solid skills in UI/UX.
 
 Prefer to develop interfaces in close collaboration with a web designer.
-In my spare time I develop an open source tools for creating flexible and easily expandable Web Applications.
-Interested to work in a cohesive team, learn new things from colleagues.
+In my spare time I develop open source tools for creating flexible and easily expandable Web Applications.
+Interested in working with a cohesive team, learning new things and experience exchanging with colleagues.
 
 ## Languages and technologies
 
@@ -43,7 +43,7 @@ Development of modern web applications (SPA) based on React.js, Clojure, Go.
 
 Developed an open source tool Stylebox — a library that helps to create and maintain layouts.
 
-Development layouts from Sketch. Create technical design in Sketch.
+Development layouts from Sketch. Creating technical design in Sketch.
 
 __Used technologies:__
 
@@ -65,11 +65,11 @@ _October 2015 - November 2016_
 
 __Duties:__
 
-Developed an client part of internet shop, named Tobox.com.
+Developed frontend of an e-commerce platform that is called Tobox.com.
 
-Gained teamwork skills, working closely with the designer. Developed an base of guideline components.
+Gained teamwork skills, worked in knit collaboration with a designer. Worked on development a library that consists of guideline components.
 
-Tested various ways of layout, including BEM.
+Tested various ways of creating of HTML/CSS layouts such as BEM.
 
 __Used technologies:__
 
@@ -89,7 +89,7 @@ _June 2012 - October 2015_
 
 __Duties:__
 
-Development of client-side web-applications, cross-browser layout of websites, html-letters. Got skills to develop complex projects, support someone else's code.
+Development of client-side web-applications, cross-browser layouts of websites, html-letters. Got skills in development of complex projects and working on someone else’s code.
 
 Using Atlassian Jira as a project management system.
 
