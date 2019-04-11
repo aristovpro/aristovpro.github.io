@@ -103,3 +103,12 @@ __Used technologies:__
   * Grunt.js
   * Git
   * Jira
+
+## Education
+
+### Voronezh State Technical University
+
+_2007 - 2013_
+
+Master's, Field of Study Information Security
+
