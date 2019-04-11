@@ -4600,6 +4600,11 @@ strip-json-comments@^2.0.1, strip-json-comments@~2.0.1:
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
   integrity sha1-PFMZQukIwml8DsNEhYwobHygpgo=
 
+stylebox@^0.0.15:
+  version "0.0.15"
+  resolved "https://registry.yarnpkg.com/stylebox/-/stylebox-0.0.15.tgz#158d7c6c921f3b07891729b0cb56869af5a29a7c"
+  integrity sha512-uFev9U8gqVyqBAhgjrR+aed4yOnjQbTxxa7pMa93dOZup7yYpU1pq4+CP0QdHDHhgE9L8u1aKRu6PllkmtGC8g==
+
 supports-color@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-2.0.0.tgz#535d045ce6b6363fa40117084629995e9df324c7"

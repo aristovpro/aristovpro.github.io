@@ -1,0 +1,26 @@
+/**
+ * Colors
+ */
+
+$color-body: #fff;
+$color-text: #000;
+$color-link: #2A6185;
+
+/**
+ * Layout
+ */
+
+$page-padding-h: 10px;
+$page-width-min: 320px;
+$page-width-max: 940px + $page-padding-h * 2;
+
+$page-breakpoint-sm: 480px;
+$page-breakpoint-md: 768px;
+
+/**
+ * Transition
+ */
+
+$transition-duration-faster: 0.07s;
+$transition-duration-fast: 0.1s;
+$transition-duration-medium: 0.5s;

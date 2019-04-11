@@ -1,3 +1,7 @@
 {{$.template('html-top.html', $)}}
-<article role="main article"></article>
+<div class="col-start-stretch padding-v-2 stretch-to-viewport-v limit-width">
+  <article role="main article" class="flex-1 fancy-typography">
+    {{$.md($.template('index.md', $))}}
+  </article>
+</div>
 {{$.template('html-bottom.html', $)}}

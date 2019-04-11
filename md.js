@@ -14,10 +14,15 @@ class MarkedRenderer extends marked.Renderer {
   // Adds ID anchors
   heading(text, level, raw) {
     const id = this.options.headerPrefix + raw.toLowerCase().replace(/[^\w]+/g, '-')
-    return (
-      `<h${level}>` +
+
+    return level === 2 ? (
+      `<h2 class="gaps-h-0x25">` +
+        `<a class="heading-anchor decorate-link" href="#${id}" id="${id}">#</a>` +
         `<span>${text}</span>` +
-        `<a class="heading-anchor" href="#${id}" id="${id}">🔗</a>` +
+      `</h2>\n`
+    ) : (
+      `<h${level}>` +
+        text +
       `</h${level}>\n`
     )
   }
