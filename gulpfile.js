@@ -29,9 +29,9 @@ const SRC_STYLE_FILES    = 'styles/**/*.scss'
 const SRC_STYLE_ENTRY    = 'styles/main.scss'
 const SRC_IMAGES         = 'images/**/*'
 
-const OUT_DIR       = 'gh-pages'
-const OUT_STYLE_DIR = 'gh-pages/styles'
-const OUT_IMAGE_DIR = 'gh-pages/images'
+const OUT_DIR       = 'public'
+const OUT_STYLE_DIR = 'public/styles'
+const OUT_IMAGE_DIR = 'public/images'
 
 const COMMIT = cp.execSync('git rev-parse --short HEAD').toString().trim()
 
