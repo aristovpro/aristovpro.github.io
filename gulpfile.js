@@ -42,7 +42,7 @@ const PAGES = [
   },
   {
     path: 'index.html',
-    title: 'about:aristov',
+    title: 'NA:about',
   },
 ]
 
