@@ -44,6 +44,10 @@ const PAGES = [
     path: 'index.html',
     title: 'NA:about',
   },
+  {
+    path: 'works.html',
+    title: 'NA:works',
+  },
 ]
 
 /**
