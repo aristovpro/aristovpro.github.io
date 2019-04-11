@@ -7,5 +7,6 @@ deploy:
   github_token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard
   skip_cleanup: true  # keep created files
   local_dir: public
+  target_branch: master
   on:
     branch: develop
