@@ -52,6 +52,7 @@ sub {
       margin-top: 2rem;
     }
     margin-bottom: 1rem;
+    @extend .weight-medium;
   }
 
   > p, > ul, > ol {

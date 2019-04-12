@@ -12,10 +12,7 @@ $color-link: #2A6185;
 
 $page-padding-h: 10px;
 $page-width-min: 320px;
-$page-width-max: 940px + $page-padding-h * 2;
-
-$page-breakpoint-sm: 480px;
-$page-breakpoint-md: 768px;
+$page-width-max: 640px - $page-padding-h * 2;
 
 /**
  * Transition

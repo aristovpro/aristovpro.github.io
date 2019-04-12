@@ -16,7 +16,7 @@ class MarkedRenderer extends marked.Renderer {
     const id = this.options.headerPrefix + raw.toLowerCase().replace(/[^\w]+/g, '-')
 
     return level === 2 ? (
-      `<h2 class="gaps-h-0x25">` +
+      `<h2 class="gaps-h-0x5">` +
         `<a class="heading-anchor decorate-link" href="#${id}" id="${id}">#</a>` +
         `<span>${text}</span>` +
       `</h2>\n`
