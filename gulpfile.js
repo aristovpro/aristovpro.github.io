@@ -147,6 +147,9 @@ gulp.task('server', () => (
   bs.init({
     server: {
       baseDir: OUT_DIR,
+      serveStaticOptions: {
+        extensions: ['html'],
+      },
     },
     port: 36462,
     files: OUT_DIR,
