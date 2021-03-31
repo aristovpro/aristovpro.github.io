@@ -8,7 +8,7 @@
     "browser-sync": "^2.26.3",
     "del": "^4.1.0",
     "eslint": "^5.16.0",
-    "fs-path": "^0.0.24",
+    "fs-path": "^0.0.25",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-clean-css": "^4.0.0",
