@@ -16,7 +16,7 @@
     "gulp-load-plugins": "^1.5.0",
     "gulp-sass": "^4.0.2",
     "gulp-watch": "^5.0.1",
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^10.4.1",
     "marked": "^0.6.2",
     "statil": "^0.9.0"
   },
