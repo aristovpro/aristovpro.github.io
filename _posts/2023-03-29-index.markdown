@@ -22,6 +22,10 @@ date: 2023-03-29 10:00:00 +0300
 | [Chakra UI](https://github.com/chakra-ui/chakra-ui) | [Docs](https://chakra-ui.com) |
 | [Headless UI](https://github.com/tailwindlabs/headlessui) | [Docs](https://headlessui.com/) |
 
+## Инструменты для разработки
+
+- [Storybook](https://storybook.js.org/)
+
 ## Tinkoff Fintech
 
 - [Стажировки](https://fintech.tinkoff.ru/start/)
