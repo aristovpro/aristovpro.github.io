@@ -5,6 +5,11 @@ categories: workshop
 title: Материалы к докладу по UI-KIT
 description: Список наиболее популярных и качественных open source React-китов (по мнению автора).
 date: 2023-03-29 10:00:00 +0300
+ym_id: 93017039
+ym_clickmap: true
+ym_trackLinks: true
+ym_accurateTrackBounce: true
+ym_webvisor: true
 ---
 
 ## React UI Kits
