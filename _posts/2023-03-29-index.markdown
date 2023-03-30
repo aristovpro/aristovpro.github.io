@@ -1,0 +1,31 @@
+---
+lang: ru
+layout: post
+categories: workshop
+title: Материалы к докладу по UI-KIT
+description: Список наиболее популярных и качественных open source React-китов (по мнению автора).
+date: 2023-03-29 10:00:00 +0300
+---
+
+## React UI Kits
+
+Список наиболее популярных и качественных open source React-китов (по мнению автора).
+
+| Source | Documentation |
+| - | - |
+| [Material UI](https://github.com/mui/material-ui) | [Docs](https://mui.com/) |
+| [Microsoft Fluent UI](https://github.com/microsoft/fluentui) | [Docs](https://developer.microsoft.com/en-us/fluentui#/) |
+| [Adobe Spectrum](https://github.com/adobe/react-spectrum) | [Docs](https://react-spectrum.adobe.com/) |
+| [Ant Design](https://github.com/ant-design/ant-design) | [Docs](https://ant.design/) |
+| [React 95](https://github.com/react95-io/React95) | [Docs](https://react95.io/) |
+| [Atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) | [Docs](https://atlaskit.atlassian.com) |
+| [Chakra UI](https://github.com/chakra-ui/chakra-ui) | [Docs](https://chakra-ui.com) |
+| [Headless UI](https://github.com/tailwindlabs/headlessui) | [Docs](https://headlessui.com/) |
+
+## Tinkoff Fintech
+
+- [Стажировки](https://fintech.tinkoff.ru/start/)
+- [Тинькофф Контест](https://fintech.tinkoff.ru/activities/contest/)
+- [Финтех курсы](https://fintech.tinkoff.ru/study/)
+- [Стипендия Тинькофф](https://fintech.tinkoff.ru/activities/scholarship/)
+- [Тинькофф Академия Бэкенда](https://fintech.tinkoff.ru/academy/backend/)

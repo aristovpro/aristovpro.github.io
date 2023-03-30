@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   My name is Nikita Aristov.
   I’m a web developer with solid skills in UI/UX.
 domain: aristovpro.github.io
-baseurl: "https://aristovpro.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://aristovpro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aristovpro
 
 # Build settings
