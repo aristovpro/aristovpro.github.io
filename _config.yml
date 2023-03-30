@@ -27,6 +27,7 @@ domain: aristovpro.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aristovpro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aristovpro
+lang: ru
 
 # Build settings
 theme: minima
