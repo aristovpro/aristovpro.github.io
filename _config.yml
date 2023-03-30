@@ -53,3 +53,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Yandex Metrica
+ym_id: 93017039
+ym_clickmap: true
+ym_trackLinks: true
+ym_accurateTrackBounce: true
+ym_webvisor: true
