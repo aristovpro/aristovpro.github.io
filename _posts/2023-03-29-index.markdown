@@ -9,7 +9,7 @@ date: 2023-03-29 10:00:00 +0300
 
 ## React UI Kits
 
-Список наиболее популярных и качественных open source React-китов (по мнению автора).
+Список наиболее популярных и качественных open source [React][react]-китов (по мнению автора).
 
 | Source | Documentation |
 | - | - |
@@ -24,6 +24,7 @@ date: 2023-03-29 10:00:00 +0300
 
 ## Инструменты для разработки
 
+- [React][react]
 - [Storybook](https://storybook.js.org/)
 
 ## Tinkoff Fintech
@@ -33,3 +34,5 @@ date: 2023-03-29 10:00:00 +0300
 - [Финтех курсы](https://fintech.tinkoff.ru/study/)
 - [Стипендия Тинькофф](https://fintech.tinkoff.ru/activities/scholarship/)
 - [Тинькофф Академия Бэкенда](https://fintech.tinkoff.ru/academy/backend/)
+
+[react]: https://react.dev/
