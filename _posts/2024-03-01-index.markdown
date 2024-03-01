@@ -1,0 +1,44 @@
+---
+lang: ru
+layout: post
+categories: workshop
+title: Материалы к докладу по сферам использования JavaScript
+description: Ссылки на материалы упоминаемые в докладе.
+date: 2024-03-01 10:00:00 +0300
+---
+
+## Сферы применения JavaScript
+
+Ссылки на материалы упоминаемые в докладе.
+
+- История JavaSctipt
+  - [Mocha 1995](https://github.com/doodlewind/mocha1995)
+  - [ECMAScript](https://ecma-international.org/publications-and-standards/standards/ecma-262)
+- Frontend
+  - [Учебник JavaScript](https://learn.javascript.ru)
+  - [React](https://react.dev)
+  - [Angular](https://angular.io)
+- Backend
+  - [Node.js](https://nodejs.org)
+- Мобильные приложения
+  - [Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+  - [React Native](https://reactnative.dev)
+  - [Cordova](https://cordova.apache.org)
+  - [Titanium](https://titaniumsdk.com)
+- [Расширения браузера](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+- Игры
+  - [js13kGames](https://js13kgames.com)
+  - [Awesome JavaScript games](https://github.com/proyecto26/awesome-jsgames)
+- 3D графика
+  - [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+  - [Three.js](https://threejs.org)
+  - [Pixi.js](https://pixijs.com)
+  - [Phaser](https://phaser.io)
+  - [Babylon.js](https://www.babylonjs.com)
+  - [Matter.js](https://brm.io/matter-js)
+  - [PlayCanvas](https://playcanvas.com)
+- Микроконтроллеры
+  - [Arduino](https://www.arduino.cc)
+  - [Espruino](https://www.espruino.com)
+  - [Iskra](https://amperka.ru/collection/iskra)
+  - [Wiki Амперки](http://wiki.amperka.ru)
