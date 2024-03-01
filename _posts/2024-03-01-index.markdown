@@ -20,6 +20,8 @@ date: 2024-03-01 10:00:00 +0300
   - [Angular](https://angular.io)
 - Backend
   - [Node.js](https://nodejs.org)
+  - [Deno](https://deno.com)
+  - [Bun](https://bun.sh)
 - Мобильные приложения
   - [Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
   - [React Native](https://reactnative.dev)
