@@ -27,6 +27,9 @@ date: 2024-03-01 10:00:00 +0300
   - [React Native](https://reactnative.dev)
   - [Cordova](https://cordova.apache.org)
   - [Titanium](https://titaniumsdk.com)
+- Десктопные приложения
+  - [Electron](https://www.electronjs.org)
+  - [React Native for Windows](https://learn.microsoft.com/ru-ru/windows/dev-environment/javascript/react-native-for-windows)
 - [Расширения браузера](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
 - Игры
   - [js13kGames](https://js13kgames.com)
@@ -44,3 +47,4 @@ date: 2024-03-01 10:00:00 +0300
   - [Espruino](https://www.espruino.com)
   - [Iskra](https://amperka.ru/collection/iskra)
   - [Wiki Амперки](http://wiki.amperka.ru)
+- [Симулятор стыковки Crew Dragon](https://iss-sim.spacex.com)
